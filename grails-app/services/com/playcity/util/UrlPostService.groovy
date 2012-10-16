@@ -1,3 +1,11 @@
+/**
+ * @author: Jorge Omar Bautista Valenzuela
+ * Date: 16/10/2012
+ * Time: 13:30
+ * e-mail: joxebus@gmail.com
+ */
+
+
 package com.playcity.util
 
 import groovy.json.JsonSlurper
