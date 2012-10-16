@@ -1,6 +1,11 @@
+/**
+ * @author: Jorge Omar Bautista Valenzuela
+ * Date: 16/10/2012
+ * Time: 13:30
+ * e-mail: joxebus@gmail.com
+ */
+
 package pruebaconsumirratpack
-
-
 
 class RegistroController {
 
